@@ -1,0 +1,2 @@
+# No external dependencies. Uses Python standard library only.
+# If you want to pin a version: python>=3.8
