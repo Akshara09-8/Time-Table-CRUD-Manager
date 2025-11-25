@@ -85,11 +85,11 @@ Follow this input flow to test the entire CRUD process:
 8. Exit the program (Option 6)
 
 ## Screenshots
-![Listing all entries](screenshots/c:\Users\aksha\OneDrive\Desktop\list .jpg)
-![Showing Entry Details](screenshots/c:\Users\aksha\OneDrive\Desktop\details.jpg)
-![Updating an entry](screenshots/c:\Users\aksha\OneDrive\Desktop\updated entry.jpg)
-![Delete an entry](screenshots/c:\Users\aksha\OneDrive\Desktop\deleted entry.jpg)
-![Exit](screenshots/c:\Users\aksha\OneDrive\Desktop\exit.jpg)
+![Listing all entries](screenshots/list.jpg)
+![Showing Entry Details](screenshots/details.jpg)
+![Updating an entry](screenshots/updatedentry.jpg)
+![Delete an entry](screenshots/deletedentry.jpg)
+![Exit](screenshots/exit.jpg)
 
 ---
 
